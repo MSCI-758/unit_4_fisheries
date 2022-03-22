@@ -9,6 +9,14 @@ This unit will cover data joins and transformations, generalized linear models a
 
 ***
 
+#### Homework: 
+
+-  hw_6_fisheries - Assigned: 3/22/2022, Due: 3/31/2022
+
+HW6 repo link: https://classroom.github.com/a/lC4Xvj8s
+
+***
+
 #### Lesson 1: Joins and shape
 
 New functions: 
